@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandbham
-- 👀 I’m interested in learning programming language to help start my journey into data science, I enjoy playing with fantasy football statistics and am interested in cryptocurrencies 
+- 👀 I’m interested in learning programming languages to help start my journey into data science, I enjoy playing with fantasy football statistics and am interested in cryptocurrencies 
 - 🌱 I’m currently learning Python, SQL, VBA, Bash, Awk, Solidity
-- 💞️ I’m looking to collaborate on anything at the moment that will help me progress
+- 💞️ I’m looking to collaborate on anything that will help me progress
 - 📫 How to reach me, message me on here please
 
 <!---
